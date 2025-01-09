@@ -1,8 +1,4 @@
 {
-    "Name": {
-        "name": "Name"
-    },
-    "Last Name": {
-        "surName": "Last Name"
-    }
+    "country": "Country MR",
+    "state": "State MR"
 }
